@@ -24,3 +24,4 @@ I'm an intermediate learner focused on Flutter (mobile app development) and Data
 - Data tools • Jupyter / Colab, SQL, preprocessing pipelines
 - Dev & infra • Git, GitHub Actions, Docker, REST APIs, Firebase (Auth/Firestore)
 - Testing • widget/unit tests (Flutter), model validation & cross-validation
+
