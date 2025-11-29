@@ -1,0 +1,36 @@
+on:
+  schedule:
+    - cron: '0 0 * * *'   # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update last-updated line in README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FILE=README.md
+          if [ ! -f "$FILE" ]; then
+            echo "$FILE not found, exiting."
+            exit 0
+          fi
+          NEW="<!-- last-updated --> Updated on $(date -u +"%Y-%m-%d")"
+          if grep -q "^<!-- last-updated -->" "$FILE"; then
+            sed -i "s/^<!-- last-updated -->.*$/${NEW}/" "$FILE"
+          else
+            echo -e "\n${NEW}" >> "$FILE"
+          fi
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add "$FILE"
+            git commit -m "chore: update profile README timestamp [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
