@@ -51,14 +51,11 @@ Tip: add a 300×200 screenshot for each project inside an images/ folder and ref
 ---
 
 ## 📫 Connect
-- Website: https://your-site.example
-- Email: you@example.com
-- Twitter: @YOUR_TWITTER
-- LinkedIn: https://linkedin.com/in/your-profile
+- Website: www.enesmumeita.net
+- Email: enesmumeita857@gmail.com
+- Twitter: @enes_mumeita
+- LinkedIn: https://linkedin.com/in/enes-mumeita
 
 ---
 
-Thanks for stopping by — if you like this style I can:
-- Swap color palette, or
-- Produce a PNG/GIF banner instead of SVG if you'd prefer universal animation support, or
-- Fill in your real project links and images and give you the final paste-ready files.
+
