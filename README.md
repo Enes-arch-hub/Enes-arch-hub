@@ -6,6 +6,7 @@
 
 <!-- last-updated --> Updated on 2025-11-30
 
+
 <p align="center">
   <strong style="font-size:18px">Flutter • Data Science • Mobile + ML</strong><br/>
   <small>Building polished mobile experiences and data-driven features.</small>
@@ -114,7 +115,7 @@
 <p align="center">
   <a href="mailto:enesparsintei857@gmail.com"><img src="https://img.shields.io/badge/Email-enesparsintei857@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://twitter.com/enes_mumeita"><img src="https://img.shields.io/badge/Twitter-@enes_mumeita-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://linkedin.com/in/enes-mumeita"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
 ---
