@@ -29,25 +29,18 @@
 ---
 
 ## 📈 Activity & Achievements — live visuals
-<!-- center a two-column layout: contribution calendar / streaks & trophies -->
+<!-- Contribution calendar uses GitHub's native contributions SVG so it looks like the calendar on your profile -->
 <table width="100%">
   <tr>
     <td align="center" width="60%">
 
-<!-- Contribution graph (calendar-like) -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/Enes-arch-hub" alt="Contributions graph" width="640" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
-</p>
-
-<!-- Activity heatmap (alternative service) -->
-<p align="center" style="margin-top:8px;">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Enes-arch-hub&theme=react-dark&hide_border=true" alt="Activity Graph" width="640" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
+  <img src="https://github.com/users/Enes-arch-hub/contributions" alt="Contributions calendar" width="640" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
 </p>
 
     </td>
     <td align="center" width="40%">
 
-<!-- Streak / Trophies -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-arch-hub&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
 </p>
@@ -56,9 +49,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=radical&row=1&margin-w=8" alt="Trophies" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
 </p>
 
-<!-- small callout -->
 <p align="center" style="margin-top:10px;color:#94a3b8;font-size:13px;">
-  Live contribution graph, streak card and trophies — auto-updated by community services.
+  Contribution calendar (native GitHub look), streak card and trophies — auto-updated by community services.
 </p>
 
     </td>
@@ -121,7 +113,7 @@
 ## 📫 Reach me
 <p align="center">
   <a href="mailto:enesparsintei857@gmail.com"><img src="https://img.shields.io/badge/Email-enesparsintei857@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://twitter.com/enes_mumeita"><img src="https://img.shields.io/badge/Twitter-@YOUR_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+  <a href="https://twitter.com/enes_mumeita"><img src="https://img.shields.io/badge/Twitter-@enes_mumeita-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
@@ -138,8 +130,8 @@
 
 <!--
 Notes:
-- If any of the external images (activity graphs / streaks / stats) show "image not found", it usually means the service is rate-limited or temporarily down. Fallback: use a PNG you upload to ./assets and replace the src.
-- To make this perfect: upload three project screenshots into ./assets with these names: project-flutter-notes.png, project-ds-experiments.png, project-ml-deploy.png
-- Replace YOUR_TWITTER and you@example.com with real contact details.
+- I replaced the external calendars with GitHub's native contributions SVG (https://github.com/users/Enes-arch-hub/contributions) so the activity graph looks like the one on your profile by default.
+- If the contributions image doesn't load in README (rare), either the branch/path is wrong or GitHub temporarily blocks direct SVG; fallback: upload a PNG of your contributions calendar to ./assets and point src to that PNG.
+- Replace project images, Twitter and LinkedIn links, and email if you want different contact details.
 -->
 
