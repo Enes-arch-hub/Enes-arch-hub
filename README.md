@@ -28,6 +28,45 @@
 
 ---
 
+## 📈 Activity & Achievements — live visuals
+<!-- center a two-column layout: contribution calendar / streaks & trophies -->
+<table width="100%">
+  <tr>
+    <td align="center" width="60%">
+
+<!-- Contribution graph (calendar-like) -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/Enes-arch-hub" alt="Contributions graph" width="640" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
+</p>
+
+<!-- Activity heatmap (alternative service) -->
+<p align="center" style="margin-top:8px;">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Enes-arch-hub&theme=react-dark&hide_border=true" alt="Activity Graph" width="640" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
+</p>
+
+    </td>
+    <td align="center" width="40%">
+
+<!-- Streak / Trophies -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-arch-hub&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
+</p>
+
+<p align="center" style="margin-top:12px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=radical&row=1&margin-w=8" alt="Trophies" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
+</p>
+
+<!-- small callout -->
+<p align="center" style="margin-top:10px;color:#94a3b8;font-size:13px;">
+  Live contribution graph, streak card and trophies — auto-updated by community services.
+</p>
+
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -71,18 +110,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (detailed)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-arch-hub&layout=compact&theme=radical" alt="Top languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=radical" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-arch-hub&layout=compact&theme=radical" alt="Top languages" style="border-radius:10px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" style="border-radius:10px;box-shadow:0 10px 30px rgba(2,6,23,0.6)"/>
 </p>
 
 ---
 
 ## 📫 Reach me
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-you@example.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-@YOUR_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+  <a href="mailto:enesparsintei857@gmail.com"><img src="https://img.shields.io/badge/Email-enesparsintei857@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://twitter.com/enes_mumeita"><img src="https://img.shields.io/badge/Twitter-@YOUR_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
@@ -98,10 +137,9 @@
 <p align="center">Made with ❤️ — feel free to open an issue on any demo repo or message me if you want collab ideas.</p>
 
 <!--
-Notes for you:
-- Replace placeholder images in ./assets (project-*.png) or remove the <img> tags.
-- Update YOUR_TWITTER, email and LinkedIn links.
-- If you don't want images, delete the <table> block; the rest will still look polished.
+Notes:
+- If any of the external images (activity graphs / streaks / stats) show "image not found", it usually means the service is rate-limited or temporarily down. Fallback: use a PNG you upload to ./assets and replace the src.
+- To make this perfect: upload three project screenshots into ./assets with these names: project-flutter-notes.png, project-ds-experiments.png, project-ml-deploy.png
+- Replace YOUR_TWITTER and you@example.com with real contact details.
 -->
 
-   
