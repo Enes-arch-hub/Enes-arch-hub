@@ -1,27 +1,64 @@
-# Hi there 👋 I'm Enes Mumeita || Software Engineer
+# Hi there 👋 I'm Enes Mumeita
 
-<!-- last-updated --> Updated on 2025-11-29
+![banner](./assets/banner.svg)
 
-I'm an intermediate learner focused on Flutter (mobile app development) and Data Science (ML, data wrangling, visualization). I build small cross-platform apps and experiment with data pipelines and models — balancing app UX and data-driven features.
+<!-- last-updated --> Updated on 2025-11-30
 
-[![GitHub followers](https://img.shields.io/github/followers/Enes-arch-hub?label=Follow&style=social)](https://github.com/Enes-arch-hub)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
+Welcome! I'm an intermediate learner focused on Flutter (mobile apps) and Data Science (ML & data viz). I like building polished UIs and pairing them with data-powered features — think beautiful UX + smart models.
 
-## 🔭 Current focus
-- Building clean, responsive Flutter apps with modern state management (Riverpod / Provider / BLoC).
-- Practicing ML workflows: data cleaning, feature engineering, model tuning, and deployment.
-- Bridging mobile + ML: on-device inference (TensorFlow Lite) and backend model APIs.
+[![GitHub followers](https://img.shields.io/github/followers/Enes-arch-hub?label=Follow&style=social&color=1DA1F2)](https://github.com/Enes-arch-hub)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social&color=%23FF6B6B)](https://twitter.com/YOUR_TWITTER)
 
-## 🌱 I’m learning
-- Advanced Flutter patterns, custom animations, and performance profiling.
-- End-to-end Data Science: exploratory analysis -> modelling -> deployment (Docker, FastAPI).
-- Model interpretability, MLOps basics, and experiment tracking.
+---
 
-## 🛠️ Skills & Tools
-- Flutter / Dart • Widgets, Layouts, State Management, Animations
-- Python • pandas, numpy, scikit-learn, matplotlib, seaborn
-- ML frameworks • TensorFlow, PyTorch (experimentation level)
-- Data tools • Jupyter / Colab, SQL, preprocessing pipelines
-- Dev & infra • Git, GitHub Actions, Docker, REST APIs, Firebase (Auth/Firestore)
-- Testing • widget/unit tests (Flutter), model validation & cross-validation
+## ✨ Snapshot
+A quick look at what I do and learn:
 
+- 🔭 Building smooth Flutter experiences (animations, responsive UI, Riverpod/BLoC)
+- 📊 Practicing Data Science pipelines: EDA → modelling → deployment (FastAPI / TF Lite)
+- ⚡ Connecting mobile apps with ML: on-device inference & backend model services
+
+---
+
+## 🛠️ Tech & Tools
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🚀 Featured projects
+(Replace with your real project links and screenshots)
+
+- [flutter-notes](https://github.com/Enes-arch-hub/flutter-notes) — a clean notes app with local DB & sync example.
+- [ds-experiments](https://github.com/Enes-arch-hub/ds-experiments) — notebooks, visualizations, model baselines.
+- [ml-deploy-demo](https://github.com/Enes-arch-hub/ml-deploy-demo) — FastAPI + Docker demo for serving a tiny model.
+
+Tip: add a 300×200 screenshot for each project inside an images/ folder and reference it to make pins pop.
+
+---
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-arch-hub&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Enes-arch-hub&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=onestar)
+
+---
+
+## 📫 Connect
+- Website: https://your-site.example
+- Email: you@example.com
+- Twitter: @YOUR_TWITTER
+- LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+Thanks for stopping by — if you like this style I can:
+- Swap color palette, or
+- Produce a PNG/GIF banner instead of SVG if you'd prefer universal animation support, or
+- Fill in your real project links and images and give you the final paste-ready files.
