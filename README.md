@@ -128,6 +128,7 @@
 ---
 
 <p align="center">Made with ❤️ — feel free to open an issue on any demo repo or message me if you want collab ideas.</p>
+<p align="center">Thankyou for your time.</p>
 
 <!--
 Notes:
