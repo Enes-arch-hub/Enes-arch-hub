@@ -108,7 +108,7 @@
 ---
 
 Made with ❤️ — feel free to open an issue on any demo repo or message me for collabs.
-
+      THANK YOU.
 <!-- Notes & next steps:
 - To enable a true animated heading: upload a GIF to ./assets/heading.gif and replace the banner image src above:
   <img src="./assets/heading.gif" alt="animated heading" width="100%"/>
