@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Enes Mumeita  — Software Engineer
+# Hi there 👋 I'm Enes Mumeita  ||  Software Engineer
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Enes Mumeita banner" width="100%" />
