@@ -128,7 +128,7 @@
 ---
 
 <p align="center">Made with ❤️ — feel free to open an issue on any demo repo or message me for collabs.</p>
-  <p align="center"> THANK YOU.</p>    
+  <p align="center"> THANKS.</p>    
 
 <!--
 If streaks/trophies or any images are not visible:
