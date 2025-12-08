@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Enes Mumeita  ||  Data Scientist 
+# Hi there 👋 I'm Enes Mumeita  — Software Engineer
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Enes Mumeita banner" width="100%" />
@@ -128,7 +128,6 @@
 ---
 
 <p align="center">Made with ❤️ — feel free to open an issue on any demo repo or message me for collabs.</p>
-  <p align="center"> THANKS.</p>    
 
 <!--
 If streaks/trophies or any images are not visible:
