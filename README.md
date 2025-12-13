@@ -27,14 +27,7 @@
 
 ---
 
-## ✨ Why this heading looks special
-- The visual banner (./assets/banner.svg) gives a big, colorful first impression while keeping text accessible beneath it.
-- The name "Enes Mumeita" is emphasized with bold text and badges to stand out.
-- If you want true animation: upload an animated GIF (assets/heading.gif) and swap the banner image line above — GitHub reliably renders GIFs in READMEs.
 
-If you'd like, I can:
-- generate a polished animated GIF heading (you'd upload it to ./assets/heading.gif), or
-- export a static PNG heading if you prefer guaranteed compatibility.
 
 ---
 
