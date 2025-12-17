@@ -56,10 +56,53 @@ I'm an intermediate learner focused on Flutter (mobile app development) and Data
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=tokyonight)
 
 ---
+## 📈 Activity & Achievements
+<!-- Two-column layout: native GitHub contributions/calendar on the left, streak + trophies on the right -->
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top" align="center">
 
-Quick tips:
-- Create a repo named exactly: Enes-arch-hub (make it public) and paste this README.md to make it your profile README.
-- Pin 3–6 repos (choose the best Flutter apps, notebooks, and experiments).
-- Add screenshots/gifs to project READMEs — they grab attention faster than long text.
+<p align="center">
+  <!-- GitHub native contributions calendar (looks like your profile calendar) -->
+  <img src="https://github.com/users/Enes-arch-hub/contributions" alt="GitHub contributions calendar" width="680" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.45)"/>
+</p>
+
+    </td>
+    <td width="38%" valign="top" align="center">
+
+<p align="center" style="margin-bottom:12px;">
+  <!-- Streak card: external service commonly used -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-arch-hub&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.45)"/>
+</p>
+
+<p align="center" style="margin-top:6px;">
+  <!-- Trophy card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=radical&row=1&margin-w=8" alt="Trophies" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(2,6,23,0.45)"/>
+</p>
+
+<p align="center" style="margin-top:10px;color:#94a3b8;font-size:13px;">
+  Live streak & trophy visuals — auto-updated by community services.
+</p>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GH Actions"/>
+</p>
+
+---
+
+
 
 Thanks for stopping by — feel free to open an issue on any of my repos or say hi 👋
