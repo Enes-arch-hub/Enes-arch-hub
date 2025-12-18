@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Enes Mumeita || Mobile Developer 
 
-<!-- last-updated --> Updated on 2025-11-29
+
 
 I'm an intermediate learner focused on Flutter (mobile app development) and Data Science (ML, data wrangling, visualization). I build small cross-platform apps and experiment with data pipelines and models — balancing app UX and data-driven features.
 
