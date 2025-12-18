@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Enes Mumeita 
+# Hi there 👋 I'm Enes Mumeita || Mobile Developer 
 
 <!-- last-updated --> Updated on 2025-11-29
 
