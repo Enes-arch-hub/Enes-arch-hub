@@ -66,6 +66,13 @@ My goal is to **bridge mobile development with intelligent systems**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-arch-hub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+
+---
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes-arch-hub&theme=tokyonight&hide_border=true&area=true" />
+</p>
 ---
 
 ## 🔥 GitHub Streak (Highly Visible)
