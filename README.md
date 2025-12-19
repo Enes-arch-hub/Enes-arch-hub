@@ -74,6 +74,18 @@ My goal is to **bridge mobile development with intelligent systems**.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes-arch-hub&theme=tokyonight&hide_border=true&area=true" />
 </p>
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Enes-arch-hub/Enes-arch-hub/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656965-16b79f38-5e42-4f06-bf92-9a2fa97bbecf.gif" width="80%" />
+</p>
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Flutter+%7C+Clean+UI+%7C+State+Management;Data+Science+%7C+ML+Pipelines+%7C+Deployment" />
+</p>
+---
 
 ## 🔥 GitHub Streak (Highly Visible)
 <p align="center">
@@ -90,6 +102,8 @@ My goal is to **bridge mobile development with intelligent systems**.
 </p>
 
 ---
+
+
 
 ## 📫 Reach Me
 - 📧 Email: **enesparsintei857@gmail.com**
