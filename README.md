@@ -70,8 +70,7 @@ My goal is to **bridge mobile development with intelligent systems**.
 ---
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes-arch-hub&theme=tokyonight&hide_border=true&area=true" />
+
 </p>
 ---
 <p align="center">
