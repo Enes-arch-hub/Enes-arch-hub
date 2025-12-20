@@ -113,7 +113,7 @@ My goal is to **bridge mobile development with intelligent systems**.
 ---
 
 <p align="center">
-  ⭐ Thanks for stopping by — feel free to explore my repositories or connect with me!
+  ⭐ Thanks for stopping by — feel free to explore my repositories or connect with me!!
 </p>
 
 
