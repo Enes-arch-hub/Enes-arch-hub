@@ -87,7 +87,7 @@ I enjoy:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-arch-hub&theme=tokyonight&hide_border=true" width="72%" />
 </p>
 
-
+> ℹ️ If this card ever fails to load, your **actual streak is still safe on GitHub**.
 
 ---
 
@@ -116,7 +116,7 @@ I enjoy:
 ---
 
 ## 📫 Reach Me
-- 📧 Email: **enesparsinte857@gmail.com**
+- 📧 Email: **enesparsintei857@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/enes-mumeita**
 - 🐦 Twitter: **@enes_mumeita**
 
