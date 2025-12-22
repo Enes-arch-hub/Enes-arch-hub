@@ -2,11 +2,11 @@
 <!-- Hero / Identity -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi+there+👋+I'm+Enes+Mumeita;Flutter+Mobile+Developer;Data+Science+%26+Machine+Learning;Building+Thoughtful+Apps+With+Purpose" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi+there+👋+I'm+Enes+Mumeita;Flutter+Mobile+Developer;Data+Science+%26+Machine+Learning;Building+Thoughtful+Apps+That+Grow+Over+Time" />
 </p>
 
 <p align="center">
-  <i>Clean systems • Calm consistency • Long-term growth</i>
+  <i>Clean systems • Consistent learning • Long-term growth</i>
 </p>
 
 <p align="center">
@@ -16,23 +16,23 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **Flutter mobile developer** with a growing focus on  
+I’m a **Flutter mobile developer** with a strong interest in  
 **Data Science and Machine Learning**.
 
-I care deeply about:
-- 📱 **User experience & performance**
-- 📊 **Data-informed decisions**
-- 🧠 **Systems that improve over time**
+I enjoy working at the intersection of:
+- 📱 **Mobile UX & performance**
+- 📊 **Data analysis & ML workflows**
+- 🧠 **Intelligent systems that improve with use**
 
-> I value progress that compounds — not pressure that burns out.
+> I value progress that compounds — consistency with purpose.
 
 ---
 
-## 🎯 What I’m Focused On
+## 🎯 Current Focus
 - Building **scalable Flutter applications**
-- Practicing **end-to-end ML workflows**
-- Integrating **intelligent features** into mobile apps
-- Deploying models using **FastAPI & Docker**
+- Practicing **end-to-end ML pipelines** (EDA → model → deployment)
+- Integrating **TensorFlow Lite** into mobile apps
+- Deploying ML services using **FastAPI & Docker**
 
 ---
 
@@ -57,7 +57,7 @@ I care deeply about:
 
 ---
 
-## 🛠️ Strengths
+## 🛠️ Core Strengths
 - **Flutter / Dart** — layouts, animations, state management  
 - **Python** — pandas, NumPy, scikit-learn  
 - **Machine Learning** — training, validation, iteration  
@@ -88,13 +88,27 @@ I care deeply about:
 
 ---
 
-## 📈 Contribution Activity (The Real Signal)
+## 🔁 Consistency & Growth
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-arch-hub&theme=tokyonight&hide_border=true" width="68%" />
+</p>
+
+<p align="center">
+  <sub>Consistency supports growth — growth is the goal.</sub>
+</p>
+
+---
+
+## 📈 Contribution Activity (Patterns Over Time)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes-arch-hub&theme=tokyonight&hide_border=true&area=true" />
 </p>
 
+---
+
+## 🏆 Milestones & Achievements
 <p align="center">
-  <sub>Patterns over time matter more than daily checkmarks.</sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=tokyonight&row=1&margin-w=12" />
 </p>
 
 ---
@@ -107,16 +121,13 @@ I care deeply about:
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: **you@example.com**  
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**  
-- 🐦 Twitter: **@YOUR_TWITTER**
+- 📧 Email: **enesparsintei857@gmail.com**  
+- 💼 LinkedIn: **https://linkedin.com/in/enes-mumeita**  
+- 🐦 Twitter: **@enes_mumeita**
 
 ---
 
 <p align="center">
-  <i>Steady growth beats noisy consistency.  
-  Thanks for stopping by.</i> 🌱
+  <i>Focused on learning, building, and growing — one meaningful step at a time.</i> 🌱
 </p>
-
-
 
