@@ -130,4 +130,4 @@ I enjoy working at the intersection of:
 <p align="center">
   <i>Focused on learning, building, and growing — one meaningful step at a time.</i> 🌱
 </p>
-
+Thanks.
