@@ -1,5 +1,5 @@
 <!-- ===================== -->
-<!-- Hero / Identity -->
+<!-- 🌊 Hero / Identity -->
 <!-- ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi+there+👋+I'm+Enes+Mumeita;Flutter+Mobile+Developer;Data+Science+%26+Machine+Learning;Building+Thoughtful+Apps+That+Grow+Over+Time" />
@@ -43,7 +43,6 @@ I enjoy working at the intersection of:
 
 ---
 
-<!-- Subtle Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656965-16b79f38-5e42-4f06-bf92-9a2fa97bbecf.gif" width="70%" />
 </p>
@@ -67,14 +66,9 @@ I enjoy working at the intersection of:
 ---
 
 ## 🚀 Selected Work
-- **flutter-notes**  
-  Clean notes app with local storage and sync-ready architecture  
-
-- **ds-experiments**  
-  Data exploration, ML baselines, and visual insights  
-
-- **ml-deploy-demo**  
-  ML model deployed with FastAPI & Docker + mobile integration  
+- **flutter-notes** — clean notes app with local storage and sync-ready architecture  
+- **ds-experiments** — EDA, ML baselines, and visual insights  
+- **ml-deploy-demo** — ML model deployed with FastAPI & Docker + mobile integration  
 
 > I focus on projects that teach me something meaningful.
 
@@ -99,7 +93,7 @@ I enjoy working at the intersection of:
 
 ---
 
-## 📈 Contribution Activity (Patterns Over Time)
+## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes-arch-hub&theme=tokyonight&hide_border=true&area=true" />
 </p>
@@ -120,14 +114,71 @@ I enjoy working at the intersection of:
 
 ---
 
+## 🧭 Growth Roadmap
+
+### 🔹 Now
+- Deepening Flutter fundamentals and architecture
+- Building small but complete ML pipelines
+- Writing clearer READMEs and documenting learning
+
+### 🔹 Next
+- Production-ready Flutter apps with Firebase & APIs
+- Deploying ML models users can interact with
+- Improving testing and CI/CD confidence
+
+### 🔹 Later
+- Advanced ML systems & MLOps
+- High-impact mobile products
+- Mentoring and contributing to open source
+
+<sub>Focused on steady progress, not rushing the destination.</sub>
+
+---
+
+## 📜 My Developer Manifesto
+- Write code I can understand six months later  
+- Prefer clarity over cleverness  
+- Build things that teach me something new  
+- Measure growth by depth, not noise  
+- Stay curious, even when things feel hard  
+
+<sub>Learning is the long game — I’m here for it.</sub>
+
+---
+
+## 🌱 Learning in Public
+I believe in sharing progress — even when it’s messy.
+
+That includes:
+- Small commits
+- Experimental notebooks
+- Refactors and retries
+- Lessons learned the hard way
+
+All of it counts.
+
+---
+
+## ⏳ My Weekly Rhythm
+- 🧠 Learn something new  
+- 🧪 Try it in a small experiment  
+- ✍️ Document what worked (and what didn’t)  
+- 🔁 Improve a previous project  
+
+<sub>Consistency is about returning — not never missing.</sub>
+
+---
+
 ## 📫 Let’s Connect
-- 📧 Email: **enesparsintei857@gmail.com**  
-- 💼 LinkedIn: **https://linkedin.com/in/enes-mumeita**  
-- 🐦 Twitter: **@enes_mumeita**
+- 📧 Email: **you@example.com**  
+- 💼 LinkedIn: **https://linkedin.com/in/your-profile**  
+- 🐦 Twitter: **@YOUR_TWITTER**
 
 ---
 
 <p align="center">
-  <i>Focused on learning, building, and growing — one meaningful step at a time.</i> 🌱
+  <i>
+    Still learning. Still building.  
+    Grateful for every small improvement along the way.
+  </i> 🌿
 </p>
-Thanks.
