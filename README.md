@@ -170,9 +170,9 @@ All of it counts.
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: **you@example.com**  
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**  
-- 🐦 Twitter: **@YOUR_TWITTER**
+- 📧 Email: **enesparsintei857@gmail.com**  
+- 💼 LinkedIn: **https://linkedin.com/in/enes-mumeita**  
+- 🐦 Twitter: **@enes_mumeita**
 
 ---
 
