@@ -236,9 +236,9 @@ Growth doesn’t need to be perfect to be real.
 ---
 
 ## 📫 Let’s Connect
-- Email: you@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Twitter/X: @YOUR_TWITTER  
+- Email: enesparsintei857@gmail.com 
+- LinkedIn: https://linkedin.com/in/enes-mumeita
+- Twitter/X: @enes_mumeita  
 
 ---
 
