@@ -1,123 +1,84 @@
-<!-- ===================== -->
-<!-- 🌊 Hero / Identity -->
-<!-- ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi+there+👋+I'm+Enes+Mumeita;Flutter+Mobile+Developer;Data+Science+%26+Machine+Learning;Building+Thoughtful+Apps+That+Grow+Over+Time" />
-</p>
+# Hi there 👋 I'm Enes Mumeita  
+### Mobile Developer • Flutter • Data Science & ML
 
 <p align="center">
-  <i>Clean systems • Consistent learning • Long-term growth</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Enes-arch-hub&label=Profile%20Views&color=0ea5e9&style=flat" />
+  <i>Focused on steady growth, clean code, and building things that matter.</i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a **Flutter mobile developer** with a strong interest in  
-**Data Science and Machine Learning**.
 
-I enjoy working at the intersection of:
-- 📱 **Mobile UX & performance**
-- 📊 **Data analysis & ML workflows**
-- 🧠 **Intelligent systems that improve with use**
+I'm an **intermediate developer** focused on **Flutter (mobile app development)** and **Data Science / Machine Learning**.  
+I enjoy building small, complete cross-platform apps and experimenting with data pipelines and models — balancing **user experience** with **data-driven features**.
 
-> I value progress that compounds — consistency with purpose.
-
----
-
-## 🎯 Current Focus
-- Building **scalable Flutter applications**
-- Practicing **end-to-end ML pipelines** (EDA → model → deployment)
-- Integrating **TensorFlow Lite** into mobile apps
-- Deploying ML services using **FastAPI & Docker**
-
----
-
-## 🌱 Currently Improving
-- Flutter architecture & performance profiling  
-- Model evaluation, interpretability & experimentation  
-- CI/CD for mobile & ML systems  
+I value:
+- clarity over cleverness  
+- progress over perfection  
+- consistency over streaks  
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656965-16b79f38-5e42-4f06-bf92-9a2fa97bbecf.gif" width="70%" />
-</p>
-
----
-
-## 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,tensorflow,pytorch,docker,git,firebase,linux,sqlite,fastapi&perline=6" />
-</p>
-
----
-
-## 🛠️ Core Strengths
-- **Flutter / Dart** — layouts, animations, state management  
-- **Python** — pandas, NumPy, scikit-learn  
-- **Machine Learning** — training, validation, iteration  
-- **Backend** — REST APIs, FastAPI  
-- **Dev & Infra** — Docker, GitHub Actions  
-
----
-
-## 🚀 Selected Work
-- **flutter-notes** — clean notes app with local storage and sync-ready architecture  
-- **ds-experiments** — EDA, ML baselines, and visual insights  
-- **ml-deploy-demo** — ML model deployed with FastAPI & Docker + mobile integration  
-
-> I focus on projects that teach me something meaningful.
-
----
-
-## 📊 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=tokyonight&hide_border=true" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-arch-hub&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
-</p>
-
----
-
-## 🔁 Consistency & Growth
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-arch-hub&theme=tokyonight&hide_border=true" width="68%" />
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/216656964-64e5f9b1-1f8a-4a6b-b1d7-0a8e28a3d7c6.gif"
+    width="70%"
+    alt="Developer working at computer animation"
+  />
 </p>
 
 <p align="center">
-  <sub>Consistency supports growth — growth is the goal.</sub>
+  <sub>Quiet focus. Deep work. Continuous growth.</sub>
 </p>
 
 ---
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes-arch-hub&theme=tokyonight&hide_border=true&area=true" />
-</p>
+## 🔭 Current Focus
+- Building clean, responsive Flutter apps with modern state management (Riverpod / Provider / BLoC)
+- Practicing ML workflows: data cleaning, feature engineering, model tuning, and deployment
+- Bridging mobile + ML: on-device inference (TensorFlow Lite) and backend model APIs
 
 ---
 
-## 🏆 Milestones & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=tokyonight&row=1&margin-w=12" />
-</p>
+## 🌱 I’m Learning
+- Advanced Flutter patterns, custom animations, and performance profiling
+- End-to-end Data Science: EDA → modelling → deployment (FastAPI, Docker)
+- Model interpretability, MLOps basics, and experiment tracking
 
 ---
 
-## 🐍 Contribution Flow
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Enes-arch-hub/Enes-arch-hub/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 🛠️ Skills & Tools
+
+**Mobile**
+- Flutter / Dart • Widgets, Layouts, State Management, Animations
+
+**Data & ML**
+- Python • pandas, numpy, scikit-learn, matplotlib, seaborn  
+- TensorFlow, PyTorch (experimentation level)
+
+**Backend & Infra**
+- FastAPI, REST APIs, Firebase (Auth / Firestore)
+- Docker, Git, GitHub Actions
+
+**Testing**
+- Flutter widget & unit tests  
+- Model validation & cross-validation
+
+---
+
+## 🚀 Featured Projects
+- **flutter-notes** — Notes app with clean UI, local DB, and sync concepts  
+- **ds-experiments** — EDA notebooks, baselines, and visualizations  
+- **ml-deploy-demo** — ML model served with FastAPI + Docker, mobile client demo  
+
+<sub>(Replace with real repo links as you build and pin them.)</sub>
 
 ---
 
 ## 🧭 Growth Roadmap
 
 ### 🔹 Now
-- Deepening Flutter fundamentals and architecture
+- Strengthening Flutter foundations and architecture
 - Building small but complete ML pipelines
 - Writing clearer READMEs and documenting learning
 
@@ -129,31 +90,31 @@ I enjoy working at the intersection of:
 ### 🔹 Later
 - Advanced ML systems & MLOps
 - High-impact mobile products
-- Mentoring and contributing to open source
+- Mentoring and open-source contributions
 
-<sub>Focused on steady progress, not rushing the destination.</sub>
+<sub>Focused on the long game.</sub>
 
 ---
 
 ## 📜 My Developer Manifesto
+
 - Write code I can understand six months later  
 - Prefer clarity over cleverness  
 - Build things that teach me something new  
 - Measure growth by depth, not noise  
-- Stay curious, even when things feel hard  
-
-<sub>Learning is the long game — I’m here for it.</sub>
+- Stay curious, even when it’s hard  
 
 ---
 
 ## 🌱 Learning in Public
+
 I believe in sharing progress — even when it’s messy.
 
 That includes:
-- Small commits
-- Experimental notebooks
-- Refactors and retries
-- Lessons learned the hard way
+- small commits  
+- experimental notebooks  
+- refactors  
+- lessons learned the hard way  
 
 All of it counts.
 
@@ -163,16 +124,49 @@ All of it counts.
 - 🧠 Learn something new  
 - 🧪 Try it in a small experiment  
 - ✍️ Document what worked (and what didn’t)  
-- 🔁 Improve a previous project  
+- 🔁 Improve an older project  
 
-<sub>Consistency is about returning — not never missing.</sub>
+<sub>Consistency is returning — not never missing.</sub>
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: **enesparsintei857@gmail.com**  
-- 💼 LinkedIn: **https://linkedin.com/in/enes-mumeita**  
-- 🐦 Twitter: **@enes_mumeita**
+## 📊 GitHub Stats (Nice to Have, Not My Identity)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-arch-hub&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-arch-hub&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=tokyonight&row=1&margin-w=8" />
+</p>
+
+<sub>Stats may come and go — the skills stay.</sub>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+## 📫 Reach Me
+- Email: you@example.com  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Twitter/X: @YOUR_TWITTER  
 
 ---
 
@@ -180,5 +174,6 @@ All of it counts.
   <i>
     Still learning. Still building.  
     Grateful for every small improvement along the way.
-  </i> 🌿
+  </i> 🌱
 </p>
+
