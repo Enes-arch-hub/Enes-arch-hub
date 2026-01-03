@@ -3,14 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Mobile+Developer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%9A%80;Data+Science+%26+Machine+Learning;Focused+on+Growth+%F0%9F%8C%B1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Mobile+Developer+%F0%9F%93%B1;Flutter+Engineer+%F0%9F%9A%80;Data+Science+%26+Machine+Learning;Building+One+Step+At+A+Time;Focused+On+Long-Term+Growth+%F0%9F%8C%B1" />
 </p>
 
----
+<p align="center">
+  <b>Flutter • Mobile Apps • Data Science • Machine Learning</b>
+</p>
 
 <p align="center">
   <i>
-    Building cross-platform apps and data-driven systems — one step at a time.
+    I believe in slow, honest growth — learning deeply, building patiently, and improving consistently.
   </i>
 </p>
 
@@ -18,92 +20,177 @@
 
 ## 👨‍💻 About Me
 
-I'm an **intermediate learner** focused on **Flutter (mobile app development)** and **Data Science (Machine Learning, data wrangling, visualization)**.
+I’m an **intermediate mobile developer** with a strong interest in **Flutter** and **data-driven systems**.
 
-I enjoy building **small but complete apps**, experimenting with **data pipelines and models**, and learning how to blend **good UX with intelligent systems**.
+I enjoy:
+- designing clean and responsive mobile UIs  
+- turning ideas into working applications  
+- experimenting with data, models, and pipelines  
+- learning how intelligence can enhance user experiences  
+
+I don’t rush mastery — I **build it**.
 
 ---
 
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/216656964-64e5f9b1-1f8a-4a6b-b1d7-0a8e28a3d7c6.gif"
-    width="70%"
-    alt="Developer working at computer animation"
+    width="75%"
+    alt="Developer working animation"
   />
 </p>
 
 <p align="center">
-  <sub>Quiet focus • Deep work • Continuous growth</sub>
+  <sub>Focused. Curious. Building quietly.</sub>
 </p>
 
 ---
 
-## 🔭 Current Focus
-- Building clean, responsive Flutter apps (Riverpod / Provider / BLoC)
-- Practicing ML workflows: data cleaning → feature engineering → modeling
-- Bridging mobile + ML (TensorFlow Lite, backend APIs)
+## 🧠 My Mindset as a Developer
+
+- I prefer **clarity over clever tricks**
+- I value **understanding over memorization**
+- I learn best by **building and breaking things**
+- I treat mistakes as **feedback, not failure**
+- I’m more interested in **depth than hype**
+
+This mindset guides how I learn, code, and grow.
 
 ---
 
-## 🌱 I’m Learning
-- Advanced Flutter patterns, animations & performance profiling
-- End-to-end Data Science (EDA → modeling → deployment)
-- Model interpretability, MLOps basics & experiment tracking
+## 🔭 What I’m Currently Focused On
+
+### 📱 Mobile Development (Flutter)
+- Clean UI layouts & responsive design
+- State management (Riverpod, Provider, BLoC)
+- Navigation, theming, and animations
+- Writing maintainable and readable widget trees
+
+### 🤖 Data Science & Machine Learning
+- Data cleaning & preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering & model selection
+- Evaluating and improving model performance
+
+### 🔗 Bridging Mobile + ML
+- Serving models through APIs
+- Exploring on-device ML with TensorFlow Lite
+- Understanding real-world ML deployment constraints
 
 ---
 
-## 🛠️ Skills & Tools
-- **Flutter / Dart** • Widgets, Layouts, State Management
-- **Python** • pandas, numpy, scikit-learn, matplotlib, seaborn
-- **ML** • TensorFlow, PyTorch (experimentation)
-- **Data** • Jupyter, SQL, preprocessing pipelines
-- **Backend & Infra** • FastAPI, Firebase, Docker, REST APIs
-- **Testing** • Flutter tests, model validation
+## 🌱 What I’m Actively Learning
+
+- Advanced Flutter architecture & performance profiling
+- End-to-end ML workflows (EDA → training → deployment)
+- Docker & FastAPI for model serving
+- Experiment tracking & basic MLOps concepts
+- Writing better technical documentation
 
 ---
 
-## 🚀 Featured Projects
-- **flutter-notes** — Notes app with clean UI & local storage
-- **ds-experiments** — EDA, baselines & visualizations
-- **ml-deploy-demo** — ML model served with FastAPI & Docker
+## 🛠️ Skills & Tools (Detailed)
 
-<sub>(Replace with your real repos as you build.)</sub>
+### 🚀 Mobile
+- Flutter / Dart  
+- Widgets, layouts, animations  
+- State management patterns  
+- Responsive & adaptive design  
+
+### 📊 Data & ML
+- Python  
+- pandas, numpy  
+- scikit-learn  
+- matplotlib, seaborn  
+- TensorFlow, PyTorch (experimentation)
+
+### 🧰 Backend & Infrastructure
+- FastAPI  
+- REST APIs  
+- Firebase (Auth, Firestore)  
+- Docker  
+- Git & GitHub Actions  
+
+### 🧪 Testing & Quality
+- Flutter widget & unit testing  
+- Model validation  
+- Cross-validation & evaluation metrics  
 
 ---
 
-## 🧭 Growth Roadmap (Added)
+## 🚀 Featured / Ongoing Projects
+
+- **flutter-notes**  
+  Notes app focusing on clean UI, local storage, and scalability concepts
+
+- **ds-experiments**  
+  A collection of notebooks exploring datasets, visualizations, and ML baselines
+
+- **ml-deploy-demo**  
+  Small ML model deployed using FastAPI & Docker, with a mobile client demo
+
+<sub>These projects evolve as my skills grow.</sub>
+
+---
+
+## 🧭 Growth Roadmap
 
 ### 🔹 Now
-- Strengthening Flutter foundations
-- Building small ML pipelines
-- Writing clearer READMEs
+- Strengthen Flutter fundamentals
+- Build small but complete ML pipelines
+- Improve documentation and READMEs
 
 ### 🔹 Next
 - Production-ready Flutter apps
-- Deploying ML models people can use
-- Improving CI/CD & testing
+- ML models users can interact with
+- Stronger testing and CI/CD habits
 
 ### 🔹 Later
-- Advanced ML systems & MLOps
-- High-impact mobile products
+- Advanced ML systems
+- Scalable mobile products
 - Open-source contributions
+- Mentoring and collaboration
 
 ---
 
-## 📜 My Developer Manifesto (Added)
+## 📜 My Developer Manifesto
 
-- Clarity over cleverness  
-- Progress over perfection  
-- Learning over shortcuts  
-- Consistency over streak obsession  
+- Write code I can understand later  
+- Optimize for readability first  
+- Build things that teach me something  
+- Measure progress weekly, not daily  
+- Stay patient and consistent  
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Learning in Public
+
+I document my learning openly:
+- experiments  
+- failed attempts  
+- refactors  
+- lessons learned  
+
+Growth doesn’t have to be perfect to be real.
+
+---
+
+## ⏳ My Weekly Rhythm
+
+- Learn something new
+- Apply it in a small project
+- Reflect and document
+- Improve an older project
+
+<sub>Consistency is about returning, not never stopping.</sub>
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-arch-hub&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-arch-hub&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
@@ -114,11 +201,11 @@ I enjoy building **small but complete apps**, experimenting with **data pipeline
   <img src="https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=tokyonight&row=1&margin-w=8" />
 </p>
 
-<sub>Stats are motivation — growth is the mission.</sub>
+<sub>These are indicators, not definitions.</sub>
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -132,7 +219,7 @@ I enjoy building **small but complete apps**, experimenting with **data pipeline
 
 ---
 
-## 📫 Reach Me
+## 📫 Let’s Connect
 - Email: you@example.com  
 - LinkedIn: https://linkedin.com/in/your-profile  
 - Twitter/X: @YOUR_TWITTER  
@@ -142,8 +229,9 @@ I enjoy building **small but complete apps**, experimenting with **data pipeline
 <p align="center">
   <i>
     Still learning. Still building.  
-    One commit at a time.
+    Grateful for the journey.
   </i> 🌱
 </p>
+
 
 
