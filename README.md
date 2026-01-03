@@ -1,21 +1,26 @@
-# Hi there 👋 I'm Enes Mumeita  
-### Mobile Developer • Flutter • Data Science & ML
+<h1 align="center">
+  Hi there 👋 I'm Enes Mumeita
+</h1>
 
 <p align="center">
-  <i>Focused on steady growth, clean code, and building things that matter.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Mobile+Developer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%9A%80;Data+Science+%26+Machine+Learning;Focused+on+Growth+%F0%9F%8C%B1" />
+</p>
+
+---
+
+<p align="center">
+  <i>
+    Building cross-platform apps and data-driven systems — one step at a time.
+  </i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **intermediate developer** focused on **Flutter (mobile app development)** and **Data Science / Machine Learning**.  
-I enjoy building small, complete cross-platform apps and experimenting with data pipelines and models — balancing **user experience** with **data-driven features**.
+I'm an **intermediate learner** focused on **Flutter (mobile app development)** and **Data Science (Machine Learning, data wrangling, visualization)**.
 
-I value:
-- clarity over cleverness  
-- progress over perfection  
-- consistency over streaks  
+I enjoy building **small but complete apps**, experimenting with **data pipelines and models**, and learning how to blend **good UX with intelligent systems**.
 
 ---
 
@@ -28,109 +33,73 @@ I value:
 </p>
 
 <p align="center">
-  <sub>Quiet focus. Deep work. Continuous growth.</sub>
+  <sub>Quiet focus • Deep work • Continuous growth</sub>
 </p>
 
 ---
 
 ## 🔭 Current Focus
-- Building clean, responsive Flutter apps with modern state management (Riverpod / Provider / BLoC)
-- Practicing ML workflows: data cleaning, feature engineering, model tuning, and deployment
-- Bridging mobile + ML: on-device inference (TensorFlow Lite) and backend model APIs
+- Building clean, responsive Flutter apps (Riverpod / Provider / BLoC)
+- Practicing ML workflows: data cleaning → feature engineering → modeling
+- Bridging mobile + ML (TensorFlow Lite, backend APIs)
 
 ---
 
 ## 🌱 I’m Learning
-- Advanced Flutter patterns, custom animations, and performance profiling
-- End-to-end Data Science: EDA → modelling → deployment (FastAPI, Docker)
-- Model interpretability, MLOps basics, and experiment tracking
+- Advanced Flutter patterns, animations & performance profiling
+- End-to-end Data Science (EDA → modeling → deployment)
+- Model interpretability, MLOps basics & experiment tracking
 
 ---
 
 ## 🛠️ Skills & Tools
-
-**Mobile**
-- Flutter / Dart • Widgets, Layouts, State Management, Animations
-
-**Data & ML**
-- Python • pandas, numpy, scikit-learn, matplotlib, seaborn  
-- TensorFlow, PyTorch (experimentation level)
-
-**Backend & Infra**
-- FastAPI, REST APIs, Firebase (Auth / Firestore)
-- Docker, Git, GitHub Actions
-
-**Testing**
-- Flutter widget & unit tests  
-- Model validation & cross-validation
+- **Flutter / Dart** • Widgets, Layouts, State Management
+- **Python** • pandas, numpy, scikit-learn, matplotlib, seaborn
+- **ML** • TensorFlow, PyTorch (experimentation)
+- **Data** • Jupyter, SQL, preprocessing pipelines
+- **Backend & Infra** • FastAPI, Firebase, Docker, REST APIs
+- **Testing** • Flutter tests, model validation
 
 ---
 
 ## 🚀 Featured Projects
-- **flutter-notes** — Notes app with clean UI, local DB, and sync concepts  
-- **ds-experiments** — EDA notebooks, baselines, and visualizations  
-- **ml-deploy-demo** — ML model served with FastAPI + Docker, mobile client demo  
+- **flutter-notes** — Notes app with clean UI & local storage
+- **ds-experiments** — EDA, baselines & visualizations
+- **ml-deploy-demo** — ML model served with FastAPI & Docker
 
-<sub>(Replace with real repo links as you build and pin them.)</sub>
+<sub>(Replace with your real repos as you build.)</sub>
 
 ---
 
-## 🧭 Growth Roadmap
+## 🧭 Growth Roadmap (Added)
 
 ### 🔹 Now
-- Strengthening Flutter foundations and architecture
-- Building small but complete ML pipelines
-- Writing clearer READMEs and documenting learning
+- Strengthening Flutter foundations
+- Building small ML pipelines
+- Writing clearer READMEs
 
 ### 🔹 Next
-- Production-ready Flutter apps with Firebase & APIs
-- Deploying ML models users can interact with
-- Improving testing and CI/CD confidence
+- Production-ready Flutter apps
+- Deploying ML models people can use
+- Improving CI/CD & testing
 
 ### 🔹 Later
 - Advanced ML systems & MLOps
 - High-impact mobile products
-- Mentoring and open-source contributions
-
-<sub>Focused on the long game.</sub>
+- Open-source contributions
 
 ---
 
-## 📜 My Developer Manifesto
+## 📜 My Developer Manifesto (Added)
 
-- Write code I can understand six months later  
-- Prefer clarity over cleverness  
-- Build things that teach me something new  
-- Measure growth by depth, not noise  
-- Stay curious, even when it’s hard  
-
----
-
-## 🌱 Learning in Public
-
-I believe in sharing progress — even when it’s messy.
-
-That includes:
-- small commits  
-- experimental notebooks  
-- refactors  
-- lessons learned the hard way  
-
-All of it counts.
+- Clarity over cleverness  
+- Progress over perfection  
+- Learning over shortcuts  
+- Consistency over streak obsession  
 
 ---
 
-## ⏳ My Weekly Rhythm
-- 🧠 Learn something new  
-- 🧪 Try it in a small experiment  
-- ✍️ Document what worked (and what didn’t)  
-- 🔁 Improve an older project  
-
-<sub>Consistency is returning — not never missing.</sub>
-
----
-
-## 📊 GitHub Stats (Nice to Have, Not My Identity)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=tokyonight" height="165"/>
@@ -145,11 +114,11 @@ All of it counts.
   <img src="https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=tokyonight&row=1&margin-w=8" />
 </p>
 
-<sub>Stats may come and go — the skills stay.</sub>
+<sub>Stats are motivation — growth is the mission.</sub>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -173,7 +142,8 @@ All of it counts.
 <p align="center">
   <i>
     Still learning. Still building.  
-    Grateful for every small improvement along the way.
+    One commit at a time.
   </i> 🌱
 </p>
+
 
