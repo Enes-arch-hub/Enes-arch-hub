@@ -78,7 +78,8 @@ I don’t rush mastery — I **build it**.
 - Data cleaning & preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature engineering & modeling  
-- Model evaluation & improvement  
+- Model evaluation & improvement
+-  
 
 ### 🔗 Bridging Mobile + ML
 - Serving models through APIs  
@@ -86,6 +87,7 @@ I don’t rush mastery — I **build it**.
 - Understanding deployment constraints  
 
 ---
+
 
 ## 🌱 What I’m Actively Learning
 - Advanced Flutter architecture & performance profiling  
