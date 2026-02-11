@@ -2,6 +2,7 @@
   Hi there 👋 I'm Enes Mumeita
 </h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Mobile+Developer+%F0%9F%93%B1;Flutter+Engineer+%F0%9F%9A%80;Data+Science+%26+Machine+Learning;Building+One+Step+At+A+Time;Focused+On+Long-Term+Growth+%F0%9F%8C%B1" />
 </p>
