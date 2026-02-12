@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Mobile+Developer+%F0%9F%93%B1;Flutter+Engineer+%F0%9F%9A%80;Data+Science+%26+Machine+Learning;Building+One+Step+At+A+Time;Focused+On+Long-Term+Growth+%F0%9F%8C%B1" />
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Enes-arch-hub&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/badge/Growth%20Level-Intermediate-blueviolet?style=flat" />
