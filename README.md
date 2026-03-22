@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me (in code)
+## 🧠 About Me 
 
 ```python
 class EnesMumeita:
@@ -39,8 +39,8 @@ print(me.mindset())
 ## 🚀 Featured Projects  
 
 🔹 Flutter Apps  
-- Gadget Store App  
-- SparkLink  
+- Student tracker 
+- Student notes app
 
 🔹 Machine Learning Projects  
 - Data Analysis with Pandas & Matplotlib  
