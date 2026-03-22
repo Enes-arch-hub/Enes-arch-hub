@@ -132,7 +132,7 @@ print(me.mindset())
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=shadow_blue)
+![](https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=onedark)
 
 ---
 
