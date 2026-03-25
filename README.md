@@ -126,8 +126,6 @@ print(me.mindset())
 
 ---
 
-## 🐍 Contribution Snake (Animation)  
-![snake gif](https://github.com/Enes-arch-hub/Enes-arch-hub/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
