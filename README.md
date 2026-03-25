@@ -6,13 +6,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Enes-arch-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Enes-arch-hub?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/Enes-arch-hub?label=Stars&style=flat&color=yellow" />
-</p>
 
-## 🧠 About Me 
+## 🧠 About Me:
 
 ```python
 class EnesMumeita:
@@ -44,8 +39,8 @@ print(me.mindset())
 ## 🚀 Featured Projects  
 
 🔹 Flutter Apps  
-- Student tracker 
-- Student notes app
+- Gadget Store App  
+- SparkLink  
 
 🔹 Machine Learning Projects  
 - Data Analysis with Pandas & Matplotlib  
@@ -137,7 +132,7 @@ print(me.mindset())
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=Enes-arch-hub&theme=shadow_blue)
 
 ---
 
@@ -147,4 +142,4 @@ print(me.mindset())
 ---
 
 ## ⚡ Fun Fact  
-> I don’t just write code… I build systems that solve real problems 🚀  
+> I don’t just write code… I build systems that solve real problems 🚀    
