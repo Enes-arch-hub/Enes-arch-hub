@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FBE,100:00F7FF&height=200&section=header&text=Enes%20Mumeita&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 
