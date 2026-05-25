@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FBE,100:00F7FF&height=200&section=header&text=Enes%20Mumeita&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Enes+Mumeita;Flutter+Developer+%F0%9F%93%B1+%7C+ML+Explorer+%F0%9F%A4%96;Building+Real+World+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
