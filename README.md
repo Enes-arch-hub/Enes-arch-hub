@@ -4,7 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FBE,100:00F7FF&height=200&section=header&text=Enes%20Mumeita&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Database%20Management&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Enes+Mumeita;DATA SCIENCE +%F0%9F%93%B1+%7C+ML+Explorer+%F0%9F%A4%96;Building+Real+World+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5" alt="Typing SVG" />
+```html
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Enes+Mumeita;Exploring+Data+Science+%F0%9F%93%8A;Exploring+Data+Analytics+%F0%9F%93%88;Becoming+a+Data+Specialist+%F0%9F%9A%80;Turning+Data+into+Insights+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%94%A5" alt="Typing SVG" />
+```
 
 <br/>
 
