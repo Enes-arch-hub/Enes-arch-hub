@@ -29,11 +29,11 @@ class EnesMumeita:
         self.name        = "Enes Mumeita"
         self.role        = "Software Engineer"
         self.location    = "🌍 Nairobi, Kenya"
-        self.focus       = ["Flutter Mobile Dev", "Machine Learning", "Backend APIs"]
-        self.stack       = ["Dart", "Python", "JavaScript", "TypeScript", "Kotlin"]
+        self.focus       = ["Data Analysis", "Machine Learning", "Database"]
+        self.stack       = ["R", "Python", "Java"]
         self.cloud       = ["Firebase", "AWS", "Google Cloud"]
         self.databases   = ["MongoDB", "MySQL"]
-        self.currently   = "📱 Building scalable apps & intelligent systems"
+        self.currently   = "📱 Focused on  data cleaning.analyzing and transforming it using the relevant tools"
         self.goal        = "🚀 Turning ideas into products that matter"
 
     def mindset(self) -> str:
