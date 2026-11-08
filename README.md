@@ -1,5 +1,4 @@
 
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FBE,100:00F7FF&height=200&section=header&text=Enes%20Mumeita&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analysis%20%7C%20Machine%20Learning%20%7C%20Database%20Management&descAlignY=58&descSize=18&animation=fadeIn" />
 
