@@ -1,41 +1,75 @@
-
+ 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FBE,100:00F7FF&height=200&section=header&text=Enes%20Mumeita&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analysis%20%7C%20Machine%20Learning%20%7C%20Database%20Management&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Enes+Mumeita;Exploring+Data+Science+%F0%9F%93%8A;Exploring+Data+Analytics+%F0%9F%93%88;Becoming+a+Data+Specialist+%F0%9F%9A%80;Turning+Data+into+Insights+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FBE,100:00F7FF&height=200&section=header&text=Enes%20Mumeita&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Data%20Science&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Enes+Mumeita+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Exploring+Business+Intelligence+%F0%9F%93%88;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Meaningful+Insights;Learning%2C+Building%2C+and+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/enes_mumeita)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-mumeita)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/enes_mumeita)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enesparsintei857@gmail.com)
+<a href="https://linkedin.com/in/enes-mumeita"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Enes-arch-hub"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:enesparsintei857@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/enes_mumeita"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Enes-arch-hub&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" />
 
 </div>
 
-
 ---
 
+## 👨‍💻 About Me
 
-## 🧠 About Me
+Hello! I'm **Enes Mumeita**, a Data Science student at Meru University of Science and Technology, passionate about transforming raw data into meaningful insights that support better decision-making.
+
+My primary interest is **Data Analytics and Business Intelligence**, where I enjoy exploring datasets, cleaning and transforming information, performing SQL analysis, and developing visualizations that communicate useful business insights.
+
+I believe that effective data analysis goes beyond writing code. It involves understanding business problems, asking meaningful questions, interpreting results, and communicating findings clearly.
+
+### 🎯 What I'm Focused On
+
+- 📊 **Data Analysis:** Exploring, cleaning, transforming, and interpreting datasets.
+- 🗄️ **SQL:** Querying relational databases and extracting business insights.
+- 📈 **Business Intelligence:** Developing interactive dashboards and reports using Power BI.
+- 🐍 **Python:** Using Pandas, NumPy and Matplotlib for data analysis.
+- 🤖 **Machine Learning:** Building practical foundations in predictive modelling.
+- 📚 **Continuous Learning:** Strengthening my analytical thinking through hands-on projects.
+
+### 🧑‍💻 My Data Journey
 
 ```python
 class EnesMumeita:
-    def __init__(self):
-        self.name        = "Enes Mumeita"
-        self.role        = "Software Engineer"
-        self.location    = "🌍 Nairobi, Kenya"
-        self.focus       = ["Data Analysis", "Machine Learning", "Database"]
-        self.stack       = ["R", "Python", "Java"]
-        self.cloud       = ["Firebase", "AWS", "Google Cloud"]
-        self.databases   = ["MongoDB", "MySQL"]
-        self.currently   = "📱 Focused on  data cleaning.analyzing and transforming it using the relevant tools"
-        self.goal        = "🚀 Turning ideas into products that matter"
 
-    def mindset(self) -> str:
-        return "Keep building. Keep learning. Keep growing. 🔥"
+    def __init__(self):
+        self.name = "Enes Mumeita"
+        self.education = "BSc Data Science"
+        self.university = "Meru University of Science and Technology"
+
+        self.primary_focus = [
+            "Data Analytics",
+            "Business Intelligence",
+            "SQL",
+            "Data Visualization"
+        ]
+
+        self.tools = [
+            "Python",
+            "SQL",
+            "Excel",
+            "Power BI"
+        ]
+
+        self.interests = [
+            "Machine Learning",
+            "Business Analytics",
+            "Data-Driven Decision Making"
+        ]
+
+    def mindset(self):
+        return "Learn continuously. Analyze critically. Build practically."
+
 
 me = EnesMumeita()
 print(me.mindset())
@@ -45,81 +79,82 @@ print(me.mindset())
 
 ## 🚀 Featured Projects
 
-| Project | Category | Description |
-|---------|----------|-------------|
-| 🛒 **Gadget Store App** | Flutter | E-commerce app with smooth UX and Firebase backend |
-| ⚡ **SparkLink** | Flutter | Real-time connectivity platform |
-| 📊 **Data Analysis Suite** | ML / Python | Pandas & Matplotlib dashboards with predictive insights |
-| 🤖 **Predictive Models** | ML / Scikit-learn | End-to-end ML pipelines for real-world data |
-| 🌐 **REST APIs** | Backend | Flask & FastAPI services with cloud integrations |
+I believe practical projects are one of the best ways to demonstrate technical skills and analytical thinking.
+
+Here are some of the projects I am developing and documenting.
+
+| Project | Technologies | Description |
+|---|---|---|
+| 🛒 **E-Commerce Business Intelligence** | Python, Pandas, SQL, Power BI | Exploring e-commerce data, analyzing customer and order behavior, and developing business intelligence insights. |
+| 🩺 **Diabetes Risk Screening** | Python, Pandas, NumPy, Scikit-learn | Data cleaning, exploratory analysis and machine learning techniques using a diabetes dataset. |
+| 📊 **Retail Sales Analytics** | SQL, MySQL | Analyzing retail transactions, revenue, product performance, sales categories and customer purchasing patterns. |
+| 📈 **Retail Sales Dashboard** | Power BI | Building interactive sales visualizations and exploring business performance indicators. |
+| 🧹 **Retail Data Cleaning** | Python, Pandas, Streamlit | Cleaning and preparing a large retail dataset for further analysis and visualization. |
+
+**SQL Practice Repository:** [SQL Data Analyst Practice](https://github.com/Enes-arch-hub/SQL-Data-Analyst-Practice)
 
 ---
 
+## 🛠️ Technical Skills & Tools
 
-## 🧭 Learning Journey
+### 📊 Data Analytics & Business Intelligence
 
-```text
-Python          ████████████████████   ✅ Mastered
-NumPy           ████████████████████   ✅ Mastered
-Pandas          ████████████████████   ✅ Mastered
-Matplotlib      ████████████████████   ✅ Mastered
-Machine Learning████████████████░░░░   🔄 In Progress
-Deep Learning   ████████░░░░░░░░░░░░   ⏳ Up Next
-```
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### 🐍 Python & Data Science
 
-
-## 💻 Tech Stack
-
-### 🚀 Languages & Frameworks
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🌐 Web & Backend
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📊 Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+### 💻 Development & Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🌐 Additional Development Technologies
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Current Learning Roadmap
+
+| Skill | Focus | Status |
+|---|---|---|
+| SQL | Queries, joins, aggregations, subqueries and analytics | 🔄 Developing |
+| Excel | Data cleaning, formulas, PivotTables and reporting | 🔄 Developing |
+| Power BI | Data modelling, DAX and interactive dashboards | 🔄 Developing |
+| Python | Data manipulation and exploratory analysis | 🔄 Practicing |
+| Statistics | Descriptive statistics and analytical reasoning | 🔄 Developing |
+| Machine Learning | Model development and evaluation | 🔄 Learning |
+
+My goal is to build strong practical capabilities and become an effective Data Analyst who can turn business questions into data-driven solutions.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=merko&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Enes-arch-hub&show_icons=true&theme=merko&border_radius=12&include_all_commits=true&hide_border=false" />
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-arch-hub&layout=compact&theme=merko&border_radius=12&hide_border=false" />
 
 </div>
@@ -136,7 +171,7 @@ Deep Learning   ████████░░░░░░░░░░░░   �
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -146,7 +181,7 @@ Deep Learning   ████████░░░░░░░░░░░░   �
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -163,15 +198,29 @@ Deep Learning   ████████░░░░░░░░░░░░   �
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enes-arch-hub/Enes-arch-hub/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enes-arch-hub/Enes-arch-hub/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Enes-arch-hub/Enes-arch-hub/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Enes-arch-hub/Enes-arch-hub/output/github-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating on meaningful projects, and connecting with people passionate about technology, analytics and data science.
+
+Whether it's discussing SQL, exploring datasets, building dashboards, or sharing ideas about data-driven solutions, I'm always open to meaningful technical conversations.
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FBE,100:00F7FF&height=120&section=footer&text=Let's+Build+Something+Amazing+🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<a href="https://linkedin.com/in/enes-mumeita">
+<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Turning data into insights, and insights into impact."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FBE,100:00F7FF&height=120&section=footer&text=Keep%20Learning.%20Keep%20Building.%20Keep%20Growing.&fontSize=19&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 </div>
